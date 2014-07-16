@@ -8,11 +8,6 @@
 -> Location, Time, and Activity Information Stored on Cloud Server<br />
 -> Threats of Safety Data Accessible on Web/Mobile Interface<br />
 
-
-##### Dhonam Pemba<br />
-##### Arlene Doria<br />
-##### Sean Westfall<br />
-
 ---
 
 "An ounce of prevention is worth a pound of cure” – Benjamin Franklin"
